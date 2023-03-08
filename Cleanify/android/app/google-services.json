@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085495366589",
+    "project_id": "treasure-sorter",
+    "storage_bucket": "treasure-sorter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085495366589:android:c0371b65bc82129075f8d4",
+        "android_client_info": {
+          "package_name": "sortapp.rithiv.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085495366589-cjg22rpnf3uein1jv2ml3vtoo9jdi2cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzgxq1E_D8xXK5wbAdkaM4fBV6shyn_UM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085495366589-cjg22rpnf3uein1jv2ml3vtoo9jdi2cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+batteries
+clothes
+e-waste
+glass
+light blubs
+metal
+organic
+paper
+plastic
+wooden waste
+medical waste

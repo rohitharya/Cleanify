@@ -1,0 +1,8 @@
+batteries
+carrot
+clothes
+e-waste
+light blubs
+potato
+rose
+tomato
